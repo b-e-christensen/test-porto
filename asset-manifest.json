@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-porto/static/css/main.c01ac975.css",
+    "main.js": "/test-porto/static/js/main.b22bb7f7.js",
+    "static/media/CloudBudget.jpg": "/test-porto/static/media/CloudBudget.b05c035e559183de924d.jpg",
+    "static/media/Mobile.jpg": "/test-porto/static/media/Mobile.c813af88a8016a7262b8.jpg",
+    "static/media/Wikitube.jpg": "/test-porto/static/media/Wikitube.1d784e18bde860c17788.jpg",
+    "static/media/NB_Project_Tracker.jpg": "/test-porto/static/media/NB_Project_Tracker.e9df40c7759f6b109210.jpg",
+    "static/media/pulse.jpg": "/test-porto/static/media/pulse.58c788f8d16ff40d58a0.jpg",
+    "static/media/Calculator.jpg": "/test-porto/static/media/Calculator.d799c99b34305622424f.jpg",
+    "index.html": "/test-porto/index.html",
+    "main.c01ac975.css.map": "/test-porto/static/css/main.c01ac975.css.map",
+    "main.b22bb7f7.js.map": "/test-porto/static/js/main.b22bb7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01ac975.css",
+    "static/js/main.b22bb7f7.js"
+  ]
+}
